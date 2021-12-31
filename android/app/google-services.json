@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697971779513",
+    "project_id": "asroo-shop-getx-479de",
+    "storage_bucket": "asroo-shop-getx-479de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697971779513:android:bab8566f0fa1743bc13868",
+        "android_client_info": {
+          "package_name": "com.example.udemy_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697971779513-sc4m1bb5vf5k81lpigda8r65fb8d5hur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-td89YxsOvTVdRKVQjRw3KHoHEaiJySk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697971779513-sc4m1bb5vf5k81lpigda8r65fb8d5hur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
